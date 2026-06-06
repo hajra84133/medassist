@@ -1,0 +1,6 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     2170    2118    2170      15568  cons0     197609 17:35:47 /usr/bin/PS
+     2118       1    2118      18396  cons0     197609 17:35:25 /usr/bin/bash
+     1742    1741    1742       1604  pty0      197609 16:10:06 /usr/bin/bash
+     1741       1    1741       9680  ?         197609 16:10:05 /usr/bin/mintty
+     2117    1742    2117       5096  pty0      197609 17:33:22 /c/Users/DELL/Desktop/medassist/backend/venv/Scripts/uvicorn
